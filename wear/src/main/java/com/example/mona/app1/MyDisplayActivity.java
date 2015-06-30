@@ -1,5 +1,5 @@
 package com.example.mona.app1;
-import com.mycomany.mywatchface.R;
+//import com.mycomany.mywatchface.R;
 
 import android.app.Activity;
 import android.os.Bundle;

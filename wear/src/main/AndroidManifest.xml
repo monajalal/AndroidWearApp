@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mycomany.mywatchface" >
+    package="com.example.mona.app1" >
 
     <uses-feature android:name="android.hardware.type.watch" />
 
@@ -17,6 +17,7 @@
             android:name=".WeatherWatchFaceService"
             android:label="Weather"
             android:allowEmbedded="true"
+            android:taskAffinity=""
             android:permission="android.permission.BIND_WALLPAPER" >
             <meta-data
                 android:name="android.service.wallpaper"

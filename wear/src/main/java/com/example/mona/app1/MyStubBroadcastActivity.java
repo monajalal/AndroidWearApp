@@ -3,7 +3,8 @@ package com.example.mona.app1;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
-import com.mycomany.mywatchface.R;
+
+//import com.example.mywatchface.R;
 
 
 /**
